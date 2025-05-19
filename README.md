@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Leonel 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Criador+de+Conteúdo;Bem-vindo+ao+meu+GitHub!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web;Apaixonado+por+Tecnologia;Criador+de+Conteúdo;Bem-vindo+ao+meu+GitHub!&center=true&width=500&height=45">
 </p>
 
 ---
@@ -21,8 +21,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Electron](https://img.shields.io/badge/Electron-2C2E3B?logo=electron&logoColor=9FEAF9&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
 
