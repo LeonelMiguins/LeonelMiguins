@@ -9,7 +9,6 @@
 ### 🚀 Sobre mim
 
 - 💻 Programadora web com foco em **sites**, **aplicativos mobile híbridos** e **aplicações desktop**
-- 🎥 Criador do canal [Arkano](https://youtube.com/@Arkano) no YouTube
 - 📖 Trabalhando em projetos de ficção, roteiros e documentários
 - 🧠 Amante de tecnologia, psicologia, literatura e storytelling
 
@@ -26,21 +25,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
 
 ### 🌎 Onde me encontrar
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Arkano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
-[![Site](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seusite.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leo)
+[![Site](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://leo.miguins)
 
 ---
 
